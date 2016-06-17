@@ -1,0 +1,34 @@
+{
+  "name": "gulp-gomeplus-localcache",
+  "version": "1.0.0",
+  "description": "Gulp extension to add license to file(s) in the pipeline.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "header",
+    "license",
+    "gulpplugin"
+  ],
+  "author": "wangchunpeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vanessa219/gulp-header-license/issues"
+  },
+  "dependencies": {
+    "concat-with-sourcemaps": "*",
+    "object-assign": "*",
+    "through2": "*"
+  },
+  "homepage": "https://github.com/Vanessa219/gulp-header-license#readme",
+  "maintainers": [
+    {
+      "name": "Vanessa",
+      "email": "lly219@gmail.com"
+    }
+  ]
